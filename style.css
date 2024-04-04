@@ -1,0 +1,14 @@
+.chat-window {
+    border-radius: 0.6vh;
+    background-color: rgba(30, 30, 30, 0.6) !important;
+}
+
+.chat-input>div.input {
+    border-radius: 0.4vh 0.4vh 0vh 0vh;
+    background-color: rgba(30, 30, 30, 0.7) !important;
+}
+
+.suggestions {
+    border-radius: 0vh 0vh 1vh 1vh;
+    background-color: rgba(30, 30, 30, 0.7) !important;
+}
